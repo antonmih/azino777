@@ -1,0 +1,119 @@
+.fon
+{
+
+}
+.red
+{
+    width: 150px;
+    height: 50px;
+    background: red;
+    float: left;
+}
+input[type=text]
+{
+
+}
+input[type=submit]
+{
+    background-color: #4CAF50;
+    border: navajowhite;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px 20px;
+
+}
+.w3-green, .w3-hover-green:hover {
+    color: #fff!important;
+    background-color: #4CAF50!important;
+}
+.w3-badge {
+    border-radius: 50%;
+}
+.w3-badge, .w3-tag {
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+.w3-red, .w3-hover-red:hover {
+    color: #fff!important;
+    background-color: #f44336!important;
+}
+.w3-badge {
+    border-radius: 50%;
+}
+.w3-badge, .w3-tag {
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+w3-border {
+    border: 1px solid #ccc!important;
+}
+.w3-input {
+    padding: 8px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+}
+button, input {
+    overflow: visible;
+}
+button, input, select, textarea {
+    font: inherit;
+    margin: 0;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+input:not([type]), input[type="email" i], input[type="number" i], input[type="password" i], input[type="tel" i], input[type="url" i], input[type="text" i] {
+    padding: 1px 0px;
+}
+user agent stylesheet
+input {
+    -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    user-select: text;
+    cursor: auto;
+    padding: 1px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+user agent stylesheet
+input, textarea, keygen, select, button {
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em 0em 0em 0em;
+    font: 13.3333px Arial;
+}
+user agent stylesheet
+input, textarea, keygen, select, button, meter, progress {
+    -webkit-writing-mode: horizontal-tb;
+}
